@@ -19,3 +19,10 @@ Main Page
 Gameplay
 ```
 ![Gameplay](https://i.ibb.co/jfktCgF/1.jpg)
+
+# Play now!
+
+```
+Open this link to play
+```
+https://vlademorr.github.io/
